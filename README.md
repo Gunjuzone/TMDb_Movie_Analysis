@@ -1,62 +1,38 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
+# TMDb_Movies
 
-# Project Name
-
-> Description the project.
+> This is a data analysis of TMDb movie data set. This dataset contains information about 10,000 movies (from 1966 to 2015) The data was collected from The Movie Database (TMDb). It includes user ratings and revenue. I am interested in the trend between ratings and revenue, and how much the revenue has changed over the years. I assume it will be possible to check how the budget and revenue has changed because the dataset has been adjusted for the inflation over time. This was probably done to reflect the value of budget from years ago to the recent time value.
 
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
-
+- Python
+- Pandas
+- Numpy
+- Matplotlib
+- Seaborn
+- 
 ## Live Demo (if available)
 
 [Live Demo Link](https://livedemo.com)
 
 
-## Getting Started
+# Author
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
+👤 **Sakiru Olarewaju Olagunju**
 
-
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
-
-
-
-## Authors
-
-👤 **Author1**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
+- GitHub: [@gunjuzone](https://github.com/gunjuzone)
 - LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
 👤 **Author2**
 
 - GitHub: [@githubhandle](https://github.com/githubhandle)
 - Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/olarewaju-olagunju-775034161/)
 
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
 
 ## Show your support
 
@@ -64,9 +40,7 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+- Udacity
 
 ## 📝 License
 
